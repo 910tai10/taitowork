@@ -1,5 +1,0 @@
-This is test
-
-This is test for mistake commit1
-
-This is test for mistake commit2
